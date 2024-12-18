@@ -1,4 +1,4 @@
-
+/* CREATED BY MARY MCMAHON */
 /* GENERAL STYLYING */
 body, html {
   height: 100%;
@@ -131,9 +131,9 @@ body{
 
 .clipped {
   border-radius: 20px;
-  max-height: 150px;
-  max-width: 230px;
-  margin: 0.2rem;
+  max-height: 180px;
+  max-width: 280px;
+  margin-right: 1.2rem;
 }
 .clipped:hover,
 .clipped:focus {
@@ -161,6 +161,14 @@ body{
   padding-top: 8%;
 }
 
+.vector-art{
+  z-index: -1;
+  max-height:400px;
+  max-width: 400px;
+  margin-left: 65%;
+  display:block;
+}
+
 #about{
   font-family: "adapt-variable", sans-serif;
   font-variation-settings: "wght" 800, "wdth" 100;
@@ -173,7 +181,7 @@ body{
   z-index: 1;
 
   /*position*/
-  margin-top: -50px;
+  margin-top: -320px;
   text-align:left;
   padding-left: 20%;
 }
@@ -219,6 +227,7 @@ p{
   cursor: pointer;
 }
 
+
 /* RESPONSIVE ABOUT */
 @media screen and (max-width: 720px) {
   /*CSS codes go here*/
@@ -244,6 +253,9 @@ p{
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+  }
+  .vector-art{
+    visibility:hidden;
   }
 }
 
