@@ -1,4 +1,4 @@
-<img width="947" alt="portfolio_website" src="https://github.com/user-attachments/assets/52d40b7b-537a-4ff7-8972-125cf6017713" />
+[<img width="947" alt="portfolio_website" src="https://github.com/user-attachments/assets/52d40b7b-537a-4ff7-8972-125cf6017713" />](https://marycmcmahon.com/)
 <h1>Responsive Portfolio Website</h1>
 Welcome to my personal portfolio website! This is a simple yet modern website built from scratch with HTML and CSS, showcasing my projects, skills, and experience. 
 My portfolio website is hosted on AWS using Amazon S3 and Route 53 and is fully responsive for mobile devices.
